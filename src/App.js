@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="timothyebinger.bandcamp.com"
+          href="https://www.timothyebinger.bandcamp.com"
         >
           Bandcamp!
         </a>
